@@ -21,7 +21,7 @@ Our mission is to enhance operational safety, reduce downtime, and optimize engi
 ---
 
 ## Learn More
-- **Website**: [SkyAlgorithm.com](https://skyalgorithm.com)  
+- **Website**: [skyalgorithm.com](https://skyalgorithm.com)  
 - **Contact**: [support@skyalgorithm.com](mailto:support@skyalgorithm.com)
 
 ---
